@@ -1,0 +1,11 @@
+/*
+DROP TABLE IF EXISTS contac;  
+CREATE TABLE contact (  
+id INT AUTO_INCREMENT  PRIMARY KEY,  
+phone VARCHAR(50) NOT NULL,  
+email VARCHAR(50) NOT NULL, 
+whats VARCHAR(50) NOT NULL
+);
+*/  
+
+	
